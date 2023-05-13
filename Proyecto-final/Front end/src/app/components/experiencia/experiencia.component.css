@@ -1,11 +1,9 @@
-div{
-    background-color: #e7c8bc;
-}
 .row{
-    padding: 10%;
+    padding: 20px;
 }
-
-h1 , h2{
+div{
+    background: #e7c8bc;
+}
+h1, h3{
     display: inline;
-
 }
